@@ -5,6 +5,7 @@
  * @author Dariusz Rumiński
  * @license MIT
  * @link https://github.com/keradus/jQuery.Event.kill
+ * @version 1.0.0
  */
 
 /*globals jQuery */
